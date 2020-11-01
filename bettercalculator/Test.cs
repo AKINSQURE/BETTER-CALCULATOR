@@ -8,5 +8,6 @@ namespace BETTERCALCULATOR
 {
     class Test
     {
+        public string Bolade {get;set;}
     }
 }
