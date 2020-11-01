@@ -8,5 +8,6 @@ namespace BETTERCALCULATOR
 {
     class Test
     {
+        public string Bose { get; set; }
     }
 }
